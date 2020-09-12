@@ -1,5 +1,3 @@
-Hello from local kemon 
-
-
-
+Hello from local
 i am user 1
+i am user 2
